@@ -1,6 +1,6 @@
 header {
-  background-color: #fff;
-  height: 10vh;
+  background-color:orange !important;;
+  height: 15vh;
   box-shadow: 0 5px 30px rgb(0 22 84 / 10%);
   padding: 15px 0;
   position: sticky;
@@ -16,12 +16,12 @@ header a {
   font-weight: 500;
 }
 header a:hover {
-  color: #27ae60;
+  color:white !important;;
 }
 header span {
   width: auto;
   padding: 0px 6px;
-  background: #27ae60;
+  background: orange !important;
   border-radius: 50px;
   color: #ffffff;
   margin-right: 4px;
@@ -56,12 +56,23 @@ header .toggle {
     top: 10vh;
     left: 0;
     width: 100%;
-    background-color: #27ae60;
+    background-color: orange !important;;
     padding: 20px;
   }
   header li a {
     display: inline-block;
     margin-bottom: 20px;
-    color: #fff;
+    color: #ffffff;
   }
+  
 }
+.btn1{
+  background-color: black !important;
+
+
+}
+#circle{
+  border:5px solid black !important;
+  background-color:black !important;
+}
+
